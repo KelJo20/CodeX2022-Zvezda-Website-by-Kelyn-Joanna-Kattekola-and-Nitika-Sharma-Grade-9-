@@ -1,0 +1,2531 @@
+
+left: 503px;
+top: 1901px;// Landing Page
+
+/* Logo */
+
+position: absolute;
+width: 68px;
+height: 56px;
+left: 74px;
+top: 150px;
+
+background: #FBFBFB;
+
+color: #000000;
+
+/* Zvezda */
+
+
+position: absolute;
+width: 221px;
+height: 54px;
+left: 142px;
+top: 123px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 54px;
+
+color: #000000
+
+/* Home */
+
+position: absolute;
+width: 54px;
+height: 19px;
+left: 10px;
+top: 0px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 19px;
+
+color: #000000;
+
+/* About Us */
+
+position: static;
+width: 85px;
+height: 19px;
+left: 114px;
+top: 0px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 19px;
+
+color: #000000;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 42px;
+
+/* FAQs */
+
+position: static;
+width: 48px;
+height: 19px;
+left: 241px;
+top: 0px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 19px;
+
+color: #000000;
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 0px 42px;
+
+/* Contact Us */
+
+
+position: static;
+width: 103px;
+height: 19px;
+left: 331px;
+top: 0px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 3;
+flex-grow: 0;
+margin: 0px 42px
+
+/* Airlines */
+
+
+position: absolute;
+width: 81px;
+height: 21px;
+left: 829px;
+top: 143px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Parking */
+
+
+position: absolute;
+width: 157px;
+height: 10px;
+left: 929px;
+top: 144px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 19px;
+
+color: #000000;
+
+/* Heading */
+
+
+position: absolute;
+width: 1127px;
+height: 152px;
+left: 107px;
+top: 240px;
+
+font-family: Adamina;
+font-style: normal;
+font-weight: normal;
+font-size: 80px;
+line-height: 76px;
+/* or 95% */
+
+letter-spacing: -0.02em;
+
+color: #292019;
+
+/* Text */
+
+
+position: absolute;
+width: 478px;
+height: 210px;
+left: 109px;
+top: 458px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+
+color: #72696A
+
+/* image 277 */
+
+
+position: absolute;
+width: 704px;
+height: 483px;
+left: 659px;
+top: 357px;
+
+background: url(image.png);
+border-radius: 22px;
+
+/* Click here! 🡳 */
+
+
+position: absolute;
+width: 214px;
+height: 38px;
+left: 107px;
+top: 710px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+
+color: #000000;
+
+/* Btn Outline */
+
+
+position: absolute;
+width: 202px;
+height: 70px;
+left: 348px;
+top: 766px;
+
+
+/* Btn Solid */
+
+
+position: absolute;
+width: 211px;
+height: 70px;
+left: 107px;
+top: 766px;
+
+/* Cta Buttons */
+
+
+position: absolute;
+width: 443px;
+height: 70px;
+left: 107px;
+top: 766px;
+
+/* Sign up or Login in */
+
+
+position: absolute;
+width: 153px;
+height: 28px;
+left: 142px;
+top: 787px;
+
+font-family: Adamina;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+color: #FFFFFF;
+
+/* Rectangle 122 */
+
+
+position: absolute;
+width: 211px;
+height: 70px;
+left: 107px;
+top: 766px;
+
+background: #C4A586;
+
+/* Image */
+
+
+position: absolute;
+width: 1022px;
+height: 853px;
+left: 418px;
+top: 206px;
+
+mix-blend-mode: darken;
+
+/* SOME OF OUR TRUSTED CLIENTS */
+
+
+position: absolute;
+width: 214px;
+height: 20px;
+left: 613px;
+top: 85.5px;
+
+font-family: Acme;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #292019;
+
+/* logo */
+
+
+position: absolute;
+width: 96px;
+height: 47px;
+left: 164px;
+top: 161px;
+
+background: url(logo.png);
+
+/* logo */
+
+
+position: absolute;
+width: 109px;
+height: 38px;
+left: 358px;
+top: 166px;
+
+background: url(logo.png);
+
+/* logo */
+
+
+position: absolute;
+width: 147px;
+height: 61px;
+left: 539px;
+top: 154px;
+
+background: url(logo.png);
+
+/* logo */
+
+
+position: absolute;
+width: 110px;
+height: 32px;
+left: 758px;
+top: 169px;
+
+background: url(logo.png);
+
+/* logo */
+
+
+position: absolute;
+width: 67px;
+height: 28px;
+left: 977px;
+top: 171px;
+
+background: url(logo.png);
+
+/* logo */
+
+
+position: absolute;
+width: 122px;
+height: 24px;
+left: 1151px;
+top: 173px;
+
+background: url(logo.png);
+
+/* Featured Collection */
+
+
+position: absolute;
+width: 720px;
+height: 388px;
+left: 0px;
+top: 1185px;
+
+/* TItle */
+
+
+position: absolute;
+width: 258px;
+height: 230px;
+left: 26px;
+top: 1218px;
+
+font-family: Acme;
+font-style: normal;
+font-weight: normal;
+font-size: 34px;
+line-height: 44px;
+/* or 129% */
+
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Btn */
+
+
+position: absolute;
+width: 567px;
+height: 41px;
+left: 101px;
+top: 1474px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #B38B78;
+
+/* Image */
+
+
+position: absolute;
+width: 720px;
+height: 388px;
+left: 0px;
+top: 1185px;
+
+/* Bg */
+
+
+position: absolute;
+width: 720px;
+height: 388px;
+left: 0px;
+top: 1185px;
+
+background: #FCEFE9;
+
+/* Featured Collection */
+
+
+position: absolute;
+width: 720px;
+height: 388px;
+left: 720px;
+top: 1185px;
+
+/* Title */
+
+
+position: absolute;
+width: 219px;
+height: 231px;
+left: 758px;
+top: 1217px;
+
+font-family: Acme;
+font-style: normal;
+font-weight: normal;
+font-size: 34px;
+line-height: 44px;
+/* or 129% */
+
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Btn */
+
+
+position: absolute;
+width: 431px;
+height: 41px;
+left: 761px;
+top: 1474px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #B58A5B;
+
+/* Btg */
+
+
+position: absolute;
+width: 720px;
+height: 388px;
+left: 720px;
+top: 1185px;
+
+background: #FAE2C8;
+
+/* Header */
+
+
+position: absolute;
+width: 1389.31px;
+height: 121px;
+left: 20px;
+top: 1763px;
+
+/* Section Heading */
+
+
+position: absolute;
+width: 1128px;
+height: 121px;
+left: 20px;
+top: 1763px;
+
+font-family: Acme;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 63px;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* See All */
+
+
+position: absolute;
+width: 136.64px;
+height: 24px;
+left: 1272.66px;
+top: 1806px;
+
+/* Categories */
+
+
+position: absolute;
+width: 431px;
+height: 20px;
+left: 503px;
+top: 1901px;
+
+
+/* Food */
+
+
+position: absolute;
+width: 49px;
+height: 20px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+
+color: #A9A7A6;
+
+/* Credits */
+
+
+position: absolute;
+width: 72px;
+height: 20px;
+left: 582px;
+top: 1901px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+
+color: #A9A7A6;
+
+/* Delivery */
+
+
+position: absolute;
+width: 79px;
+height: 20px;
+left: 676px;
+top: 1901px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+
+color: #A9A7A6;
+
+/* transport */
+
+
+position: absolute;
+width: 98px;
+height: 20px;
+left: 772px;
+top: 1901px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+
+color: #3D3D3F;
+
+/* shop */
+
+
+position: absolute;
+width: 49px;
+height: 20px;
+left: 885px;
+top: 1901px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+
+color: #A9A7A6;
+
+/* Product Grid Item */
+
+
+position: absolute;
+width: 448px;
+height: 515px;
+left: 139px;
+top: 2049px;
+
+/* Add To Cart */
+
+
+position: absolute;
+width: 137px;
+height: 40px;
+left: 283px;
+top: 2049px;
+
+/* Title */
+
+
+position: absolute;
+left: 16.88%;
+right: 75.21%;
+top: 49.03%;
+bottom: 50.21%;
+
+font-family: Acme;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 33px;
+/* identical to box height */
+
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Price */
+
+
+position: absolute;
+left: 16.88%;
+right: 78.75%;
+top: 50.37%;
+bottom: 49.03%;
+
+font-family: Adamina;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 26px;
+/* identical to box height */
+
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Original Price */
+
+
+position: absolute;
+left: 23.47%;
+right: 72.99%;
+top: 50.46%;
+bottom: 49.07%;
+
+font-family: Adamina;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+text-decoration-line: line-through;
+
+/* grey */
+
+color: #A9A7A6;
+
+/* image 272 */
+
+
+position: absolute;
+width: 575px;
+height: 231px;
+left: 59px;
+top: 2258px;
+
+background: url(image.png);
+
+
+/* Add To Cart */
+
+
+position: absolute;
+left: 29.17%;
+right: 26.92%;
+top: -1.25%;
+bottom: 88.75%;
+
+
+/* Title */
+
+
+position: absolute;
+left: 16.35%;
+right: 48.72%;
+top: 18.12%;
+bottom: 71.56%;
+
+font-family: Acme;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 33px;
+/* identical to box height */
+
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Price */
+
+
+position: absolute;
+left: 16.35%;
+right: 63.14%;
+top: 36.25%;
+bottom: 55.62%;
+
+font-family: Adamina;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 26px;
+/* identical to box height */
+
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Original Price */
+
+
+position: absolute;
+left: 46.79%;
+right: 37.18%;
+top: 37.5%;
+bottom: 56.25%;
+
+font-family: Adamina;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+text-decoration-line: line-through;
+
+/* grey */
+
+color: #A9A7A6;
+
+/* image 275 */
+
+
+position: absolute;
+width: 354px;
+height: 172px;
+left: 538px;
+top: 2288px;
+
+background: url(image.png);
+
+/* Product Grid Item */
+
+
+position: absolute;
+width: 312px;
+height: 320px;
+left: 932px;
+top: 2054px;
+
+/* Bg */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 4.69%;
+bottom: 0%;
+
+background: #FFF4E8;
+border-radius: 3px;
+
+/* Add To Cart */
+
+
+position: absolute;
+left: 29.17%;
+right: 26.92%;
+top: -1.56%;
+bottom: 89.06%;
+
+/* Title */
+
+
+position: absolute;
+left: 16.35%;
+right: 68.59%;
+top: 18.12%;
+bottom: 71.56%;
+
+font-family: Acme;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 33px;
+/* identical to box height */
+
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Price */
+
+
+position: absolute;
+left: 16.35%;
+right: 62.18%;
+top: 36.25%;
+bottom: 55.62%;
+
+font-family: Adamina;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 26px;
+/* identical to box height */
+
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Original Price */
+
+
+position: absolute;
+left: 46.79%;
+right: 37.5%;
+top: 37.5%;
+bottom: 56.25%;
+
+font-family: Adamina;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+text-decoration-line: line-through;
+
+/* grey */
+
+color: #A9A7A6;
+
+/* image 271 */
+
+
+position: absolute;
+width: 485px;
+height: 205px;
+left: 835px;
+top: 2239px;
+
+background: url(image.png);
+
+/* Product Grid Item */
+
+
+position: absolute;
+width: 312px;
+height: 320px;
+left: 192px;
+top: 2550px;
+
+/* Add To Cart */
+
+position: absolute;
+left: 29.17%;
+right: 26.92%;
+top: -1.56%;
+bottom: 89.06%;
+
+/* Title */
+
+
+position: absolute;
+left: 16.35%;
+right: 65.38%;
+top: 18.12%;
+bottom: 71.56%;
+
+font-family: Acme;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 33px;
+/* identical to box height */
+
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Price */
+
+
+position: absolute;
+left: 16.35%;
+right: 62.82%;
+top: 36.25%;
+bottom: 55.62%;
+
+font-family: Adamina;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 26px;
+/* identical to box height */
+
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Original Price */
+
+
+position: absolute;
+left: 46.79%;
+right: 37.18%;
+top: 37.5%;
+bottom: 56.25%;
+
+font-family: Adamina;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+text-decoration-line: line-through;
+
+/* grey */
+
+color: #A9A7A6;
+
+/* image 276 */
+
+
+position: absolute;
+width: 550px;
+height: 225px;
+left: 32px;
+top: 2757px;
+
+background: url(image.png);
+
+/* Product Grid Item */
+
+
+position: absolute;
+width: 312px;
+height: 320px;
+left: 562px;
+top: 2550px;
+
+/* Add To Cart */
+
+
+position: absolute;
+left: 29.17%;
+right: 26.92%;
+top: -1.56%;
+bottom: 89.06%;
+
+/* Title */
+
+
+position: absolute;
+left: 16.35%;
+right: 65.71%;
+top: 18.12%;
+bottom: 71.56%;
+
+font-family: Acme;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 33px;
+/* identical to box height */
+
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Price */
+
+
+position: absolute;
+left: 16.35%;
+right: 63.14%;
+top: 36.25%;
+bottom: 55.62%;
+
+font-family: Adamina;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 26px;
+/* identical to box height */
+
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Original Price */
+
+
+position: absolute;
+left: 46.79%;
+right: 36.86%;
+top: 37.5%;
+bottom: 56.25%;
+
+font-family: Adamina;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+text-decoration-line: line-through;
+
+/* grey */
+
+color: #A9A7A6;
+
+/* image 273 */
+
+
+position: absolute;
+width: 400px;
+height: 182px;
+left: 520px;
+top: 2779px;
+
+background: url(image.png);
+
+/* Product Grid Item */
+
+
+position: absolute;
+width: 312px;
+height: 320px;
+left: 932px;
+top: 2550px;
+
+
+/* Add To Cart */
+
+
+position: absolute;
+left: 29.17%;
+right: 26.92%;
+top: -1.56%;
+bottom: 89.06%;
+
+
+/* Title */
+
+
+position: absolute;
+left: 16.35%;
+right: 57.69%;
+top: 18.12%;
+bottom: 71.56%;
+
+font-family: Acme;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 33px;
+/* identical to box height */
+
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Price */
+
+
+position: absolute;
+left: 16.35%;
+right: 59.62%;
+top: 36.25%;
+bottom: 55.62%;
+
+font-family: Adamina;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 26px;
+/* identical to box height */
+
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Original Price */
+
+
+position: absolute;
+left: 46.79%;
+right: 33.97%;
+top: 37.5%;
+bottom: 56.25%;
+
+font-family: Adamina;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+text-decoration-line: line-through;
+
+/* grey */
+
+color: #A9A7A6;
+
+/* image 274 */
+
+
+position: absolute;
+width: 512px;
+height: 222px;
+left: 883px;
+top: 2739px;
+
+background: url(image.png);
+
+/* image 280 */
+
+
+position: absolute;
+width: 517px;
+height: 569px;
+left: 218px;
+top: 3233px;
+
+background: url(image.png);
+border-radius: 31px;
+
+/* testimonials */
+
+
+position: absolute;
+width: 445px;
+height: 576px;
+left: 769px;
+top: 3246px;
+
+/* Section Heading */
+
+
+position: absolute;
+width: 427px;
+height: 112px;
+left: 769px;
+top: 3246px;
+
+font-family: Acme;
+font-style: normal;
+font-weight: normal;
+font-size: 53px;
+line-height: 56px;
+/* or 106% */
+
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Testimonial Text */
+
+
+position: absolute;
+width: 445px;
+height: 140px;
+left: 769px;
+top: 3401px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+
+color: #72696A;
+
+/* User */
+
+
+position: absolute;
+width: 125px;
+height: 23px;
+left: 863px;
+top: 3686px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Date */
+
+
+position: absolute;
+width: 133px;
+height: 16px;
+left: 865px;
+top: 3724px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+
+/* grey */
+
+color: #A9A7A6;
+
+/* Star Rating */
+
+
+position: absolute;
+width: 66.58px;
+height: 10px;
+left: 1001px;
+top: 3726px;
+
+/* Footer 19 */
+
+
+position: absolute;
+width: 1440px;
+height: 746px;
+left: 0px;
+top: 3988px;
+
+background: #FFFFFF;
+
+// Sign Up
+
+/* Background */
+
+position: absolute;
+width: 960px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: #F6F6F6;
+
+/* Logo */
+
+
+position: absolute;
+width: 102px;
+height: 102px;
+left: 100px;
+top: 46px;
+
+background: #F6F6F6;
+
+/* Sign Up */
+
+
+position: absolute;
+width: 853px;
+height: 65px;
+left: 100px;
+top: 174px;
+
+font-family: Adamina;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 65px;
+
+color: #000000;
+
+/* It's not long before you embark on a journey! */
+
+position: absolute;
+width: 853px;
+height: 36px;
+left: 100px;
+top: 256px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.7);
+
+/* Placeholder - E-mail */
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 708px;
+height: 132px;
+left: 100px;
+top: 360px;
+
+/* Placeholder - Password */
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 708px;
+height: 134px;
+left: 100px;
+top: 522px;
+
+/* Check */
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 708px;
+height: 66px;
+left: 100px;
+top: 694px;
+
+/* Sign up */
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 20px 66px;
+
+position: absolute;
+width: 418px;
+height: 85px;
+left: 100px;
+top: 826px;
+
+background: linear-gradient(110.47deg, #C4A586 36.41%, #F3C49A 86.25%);
+box-shadow: 5px 5px 20px rgba(0, 224, 255, 0.15);
+border-radius: 25px;
+
+/* Already have an account? Sign In */
+
+
+position: absolute;
+width: 563px;
+height: 36px;
+left: 100px;
+top: 941px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #000000;
+
+/* Frame 13 */
+
+
+position: absolute;
+width: 1522px;
+height: 3444px;
+left: 36px;
+top: 52px;
+
+/* Image */
+
+position: absolute;
+width: 1615px;
+height: 301px;
+left: -11px;
+top: 188px;
+
+/* TItle */
+
+
+position: absolute;
+width: 618px;
+height: 182px;
+left: 51px;
+top: 247px;
+
+font-family: Acme;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 55px;
+/* or 86% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Nav */
+
+
+position: absolute;
+width: 1376px;
+height: 2900px;
+left: 33px;
+top: 0px;
+
+/* Top Nav */
+
+
+position: absolute;
+width: 1376px;
+height: 2900px;
+left: 33px;
+top: 0px;
+
+/* Zvezda */
+
+
+position: absolute;
+width: 221px;
+height: 54px;
+left: 151px;
+top: 0px;
+
+font-family: Aclonica;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 54px;
+
+color: #000000;
+
+/* Listing Screen */
+
+
+position: absolute;
+width: 1322px;
+height: 642px;
+left: 76px;
+top: 439px;
+
+background: #FFFFFF;
+border-radius: 20px;
+
+/* Property Card */
+
+position: absolute;
+width: 154px;
+height: 252.53px;
+left: 779px;
+top: 293px;
+
+/* Filter Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 552px;
+top: 235px;
+
+/* Instant Book */
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+
+position: absolute;
+width: 153px;
+height: 44px;
+left: 235px;
+top: 225px;
+
+border: 0.5px solid #3E4958;
+box-sizing: border-box;
+border-radius: 30px;
+
+/* Price */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+
+position: absolute;
+width: 96px;
+height: 44px;
+left: 131px;
+top: 222px;
+
+border: 0.5px solid #3E4958;
+box-sizing: border-box;
+border-radius: 30px;
+
+/* Free Cancellation */
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 30px;
+
+position: absolute;
+width: 93px;
+height: 44px;
+left: 30px;
+top: 225px;
+
+background: rgba(219, 219, 254, 0.5);
+border-radius: 30px;
+
+/* 430+ Stays */
+
+
+position: absolute;
+height: 48px;
+left: 34px;
+right: 1247px;
+top: calc(50% - 48px/2 - 352px);
+
+font-family: Actor;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 149.8%;
+/* or 24px */
+
+text-align: center;
+
+color: #3E4958;
+
+/* Free parking spots near you. */
+
+
+position: absolute;
+width: 488px;
+height: 28px;
+left: 30px;
+top: 167px;
+
+font-family: Adamina;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 28px;
+/* identical to box height, or 78% */
+
+letter-spacing: 0.2px;
+
+color: #3E4958;
+
+/* Property card big 3 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+
+position: absolute;
+width: 561px;
+height: 215px;
+left: 30px;
+top: 791px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.15);
+border-radius: 20px;
+
+/* Property card big 3 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+
+position: absolute;
+width: 561px;
+height: 215px;
+left: 30px;
+top: 791px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.15);
+border-radius: 20px;
+
+/* Property card big 1 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+
+position: absolute;
+width: 561px;
+height: 215px;
+left: 30px;
+top: 301px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.15);
+border-radius: 20px;
+
+/* Map view */
+
+
+position: absolute;
+width: 710px;
+height: 858px;
+left: 626px;
+top: 136px;
+/* Header */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+
+position: absolute;
+width: 1366px;
+height: 106px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 30px rgba(0, 0, 0, 0.06);
+
+/* Frame 27 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 144px;
+height: 24px;
+left: 1091.5px;
+top: 41px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 0px 0px;
+
+/* Account */
+
+
+position: static;
+width: 225px;
+height: 86px;
+right: 274.5px;
+top: 10px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 0px;
+
+/* Frame 23 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 736px;
+height: 62px;
+left: 130.5px;
+top: 22px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 0px;
+
+/* economy */
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 8px 0px;
+
+position: absolute;
+width: 194px;
+height: 1244px;
+left: calc(50% - 194px/2 + 491px);
+top: calc(50% - 1244px/2 + 469px);
+
+/* True White */
+
+background: #FFFFFF;
+border-radius: 8px;
+
+/* image 279 */
+
+
+position: absolute;
+width: 543px;
+height: 299px;
+left: 866px;
+top: 1178px;
+
+background: url(image.png);
+border-radius: 36px;
+
+/* Group 1000001361 */
+
+position: absolute;
+width: 122px;
+height: 32px;
+left: 1213px;
+top: 13px;
+
+/* Group 548 */
+
+position: absolute;
+width: 14px;
+height: 15px;
+left: 1278px;
+top: 13px;
+
+/* Group 46 */
+
+position: absolute;
+width: 122px;
+height: 24px;
+left: 1213px;
+top: 21px;
+
+/* Group 11 */
+
+
+position: static;
+width: 72px;
+height: 31px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 42px;
+
+/* image 270 */
+
+
+position: absolute;
+width: 586px;
+height: 209px;
+left: 33px;
+top: 2691px;
+
+/* Featured Collection */
+
+
+position: absolute;
+width: 1527.11px;
+height: 495px;
+left: 52px;
+top: 1137px;
+
+/* Featured Collection */
+
+
+position: absolute;
+width: 600px;
+height: 216px;
+left: 787px;
+top: 1291px;
+
+/* flight cart */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+
+position: absolute;
+width: 442px;
+height: 351px;
+left: 1028px;
+top: 2907px;
+
+/* button */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 20px;
+
+position: absolute;
+width: 327px;
+height: 103px;
+left: 1119px;
+top: 3319px;
+
+background: #815D39;
+border-radius: 4px;
+
+/* seat selector */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 712px;
+right: 780px;
+top: 2809px;
+bottom: -197px;
+
+background: rgba(255, 255, 255, 0.5);
+/* Background Blur */
+
+backdrop-filter: blur(24px);
+/* Note: backdrop-filter has minimal browser support */
+
+/* Checkbox */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px 0px;
+
+position: absolute;
+width: 232px;
+height: 34px;
+left: 77px;
+top: 2214px;
+
+/* Text Input */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 260px;
+height: 54px;
+left: 660px;
+top: 1808px;
+
+/* Text Input */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 328px;
+height: 81px;
+left: 368px;
+top: 1889px;
+
+/* Text Input */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 260px;
+height: 54px;
+left: 368px;
+top: 1808px;
+
+/* Text Input */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 391px;
+height: 54px;
+left: 498px;
+top: 2356px;
+
+/* Text Input */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 391px;
+height: 54px;
+left: 498px;
+top: 2078px;
+
+/* Text Input */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 391px;
+height: 54px;
+left: 498px;
+top: 2275px;
+
+/* Text Input */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 391px;
+height: 54px;
+left: 498px;
+top: 1997px;
+
+/* Text Input */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 390px;
+height: 54px;
+left: 77px;
+top: 2356px;
+
+/* Text Input */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 390px;
+height: 54px;
+left: 77px;
+top: 2078px;
+
+/* Text Input */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 390px;
+height: 54px;
+left: 77px;
+top: 2275px;
+
+/* Text Input */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 390px;
+height: 54px;
+left: 77px;
+top: 1997px;
+
+/* Text Input */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 260px;
+height: 54px;
+left: 77px;
+top: 1902px;
+
+/* Text Input */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 260px;
+height: 54px;
+left: 77px;
+top: 1808px;
+
+/* 1 */
+
+
+position: absolute;
+width: 32px;
+height: 41px;
+left: 280px;
+top: 2658px;
+
+/* Body Large */
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Grey / 600 */
+
+color: #6E7491;
+
+/* Increment */
+
+
+position: absolute;
+width: 41px;
+height: 36px;
+left: 344px;
+top: 2661px;
+
+/* Grey / 100 */
+
+background: #FAFAFA;
+border-radius: 4px;
+
+/* Increment */
+
+
+position: absolute;
+width: 42px;
+height: 36px;
+left: 207px;
+top: 2661px;
+
+/* Grey / 100 */
+
+background: #FAFAFA;
+border-radius: 4px;
+
+/* button row */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 420px;
+height: 54px;
+left: 77px;
+top: 2726px;
+
+/* First Last */
+
+
+position: absolute;
+width: 99px;
+height: 28px;
+left: 77px;
+top: 2665px;
+
+/* Header H4 */
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+/* Grey / 600 */
+
+color: #6E7491;
+
+/* Checked bags */
+
+
+position: absolute;
+width: 149px;
+height: 28px;
+left: 240px;
+top: 2603px;
+
+/* Header H4 */
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+/* Grey / 400 */
+
+color: #7C8DB0;
+
+/* Passenger 1 */
+
+
+position: absolute;
+width: 131px;
+height: 28px;
+left: 77px;
+top: 2603px;
+
+/* Header H4 */
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+/* Grey / 400 */
+
+color: #7C8DB0;
+
+/* Bag information */
+
+
+position: absolute;
+width: 172px;
+height: 28px;
+left: 77px;
+top: 2437px;
+
+/* Header H4 */
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+/* Grey / 600 */
+
+color: #6E7491;
+
+/* Each passenger is allowed one free carry-on bag and one personal item. First checked bag for each passenger is also free. Second bag check fees are waived for loyalty program members. See the full bag policy. */
+
+
+position: absolute;
+width: 887px;
+height: 84px;
+left: 77px;
+top: 2492px;
+
+/* Body Large */
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+
+/* Grey / 400 */
+
+color: #7C8DB0;
+
+/* Emergency contact information */
+
+
+position: absolute;
+width: 332px;
+height: 28px;
+left: 77px;
+top: 2159px;
+
+/* Header H4 */
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+/* Grey / 600 */
+
+color: #6E7491;
+
+/* Passenger 1 (Adult) */
+
+
+position: absolute;
+width: 216px;
+height: 29px;
+left: 77px;
+top: 1752px;
+
+/* Header H4 */
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+/* Grey / 600 */
+
+color: #6E7491;
+
+/* Passenger information */
+
+
+position: absolute;
+width: 328px;
+height: 37px;
+left: 77px;
+top: 1605px;
+
+/* Header H3 */
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+
+color: #815D39;
+
+/* Enter the required information for each traveler and be sure that it exactly matches the government-issued ID presented at the airport. */
+
+
+position: absolute;
+width: 887px;
+height: 56px;
+left: 77px;
+top: 1669px;
+
+/* Body Large */
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+
+/* Grey / 400 */
+
+color: #7C8DB0;
+
+/* Featured Collection */
+
+
+position: absolute;
+width: 1615px;
+height: 301px;
+left: -11px;
+top: 188px;
+
+/* TItle */
+
+
+position: absolute;
+width: 618px;
+height: 182px;
+left: 51px;
+top: 247px;
+
+font-family: Acme;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 55px;
+/* or 86% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* 1st */
+
+color: #3D3D3F;
+
+/* Image */
+
+
+position: absolute;
+width: 1615px;
+height: 301px;
+left: -11px;
+top: 188px;
+
+/* Bg */
+
+
+position: absolute;
+width: 1615px;
+height: 301px;
+left: -11px;
+top: 188px;
+
+background: #FCEFE9;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
